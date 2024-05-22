@@ -1,0 +1,58 @@
+.terminal {
+  background-color: #ffffff;
+  padding: 20px;
+  width: 80%;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 35px 0;
+}
+
+.terminal-header h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+
+@media screen  and (max-width: 1150px) {
+  .terminal-header h2 {
+    font-size: 20px;
+  }
+}
+
+.terminal-header p {
+  font-size: 16px;
+  color: #666;
+}
+
+@media screen  and (max-width: 1150px) {
+  .terminal-header p {
+    font-size: 14px;
+    margin: 0 5px;
+  }
+}
+
+.terminal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.terminal-section,
+.terminal-map {
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.terminal-section h3,
+.terminal-map h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.terminal-section p,
+.terminal-map p {
+  font-size: 14px;
+  color: #333;
+}

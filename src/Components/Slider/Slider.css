@@ -1,0 +1,12 @@
+
+
+.slider-image {
+  max-width: 40%;
+  border-radius: 8px;
+}
+
+@media screen and (max-width: 1150px) {
+  .slider-image {
+    max-width: 78%;
+  }
+}
