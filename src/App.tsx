@@ -3,7 +3,6 @@ import Terminal from './Components/Terminal/Terminal';
 import swiss_post_logo1 from "./assets/Swiss_Post_logo.png";
 import swiss_post_logo2 from "./assets/Schweizerische_Post_Logo.png";
 import swiss_post_plane1 from './assets/swiss-plane1.png';
-import swiss_post_plane2 from './assets/swiss-plane2.png';
 import swiss_post_plane3 from './assets/swiss-plane3.png';
 import swiss_post_plane4 from './assets/swiss-plane4.png';
 import swiss_post_plane5 from './assets/swiss-plane5.png';
