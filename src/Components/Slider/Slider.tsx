@@ -3,9 +3,9 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
 import './Slider.css';
-import swiss_post_img1 from "../../assets/post-office1.jpg";
-import swiss_post_img2 from "../../assets/post-office2.jpg";
-import swiss_post_img3 from "../../assets/post-office3.jpg";
+import swiss_post_img1 from "../../../public/post-office1.jpg";
+import swiss_post_img2 from "../../../public/post-office2.jpg";
+import swiss_post_img3 from "../../../public/post-office3.jpg";
 
 export const ImageSlider = () => {
   const settings = {

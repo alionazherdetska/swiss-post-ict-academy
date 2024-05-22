@@ -1,11 +1,11 @@
 import './App.css';
 import Terminal from './Components/Terminal/Terminal';
-import swiss_post_logo1 from "./assets/Swiss_Post_logo.png";
-import swiss_post_logo2 from "./assets/Schweizerische_Post_Logo.png";
-import swiss_post_plane1 from './assets/swiss-plane1.png';
-import swiss_post_plane3 from './assets/swiss-plane3.png';
-import swiss_post_plane4 from './assets/swiss-plane4.png';
-import swiss_post_plane5 from './assets/swiss-plane5.png';
+import swiss_post_logo1 from "../public/Swiss_Post_logo.png";
+import swiss_post_logo2 from "../public/Schweizerische_Post_Logo.png";
+import swiss_post_plane1 from './../public/swiss-plane1.png';
+import swiss_post_plane3 from '../public/swiss-plane3.png';
+import swiss_post_plane4 from '../public/swiss-plane4.png';
+import swiss_post_plane5 from '../public/swiss-plane5.png';
 import ImageSlider from './Components/Slider/Slider';
 import Concept from './Components/Concepts/Concept';
 
